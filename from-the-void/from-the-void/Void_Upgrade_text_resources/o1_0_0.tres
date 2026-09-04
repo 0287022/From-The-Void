@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="OneTime" format=3 uid="uid://k508633mf83m"]
+
+[ext_resource type="Script" uid="uid://bf4b85sudiko2" path="res://onetime_upgrade_definition.gd" id="1_xbvnn"]
+
+[resource]
+script = ExtResource("1_xbvnn")
+level = 1
+title = "Begin"
+description = "Start gaining 1 Singularity per second."
+metadata/_custom_type_script = "uid://bf4b85sudiko2"
